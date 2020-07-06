@@ -1,4 +1,4 @@
-package com.demo.modelmapper;
+package com.demo.modelmapper.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

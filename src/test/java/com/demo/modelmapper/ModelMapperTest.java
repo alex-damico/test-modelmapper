@@ -2,6 +2,10 @@ package com.demo.modelmapper;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import com.demo.modelmapper.dto.BookDTO;
+import com.demo.modelmapper.dto.CustomAttributesDTO;
+import com.demo.modelmapper.entity.Book;
+import com.demo.modelmapper.entity.CustomAttributes;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jdk8.Jdk8Module;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,4 +1,4 @@
-package com.demo.modelmapper;
+package com.demo.modelmapper.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

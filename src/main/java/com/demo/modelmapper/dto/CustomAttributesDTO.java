@@ -1,4 +1,4 @@
-package com.demo.modelmapper;
+package com.demo.modelmapper.dto;
 
 import java.io.Serializable;
 import java.util.HashMap;
